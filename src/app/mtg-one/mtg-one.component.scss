@@ -1,0 +1,17 @@
+div{
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+div p:first-child{
+    margin-top: 100px;
+}
+p{
+    color: grey;
+    font-size: 22px;
+}
